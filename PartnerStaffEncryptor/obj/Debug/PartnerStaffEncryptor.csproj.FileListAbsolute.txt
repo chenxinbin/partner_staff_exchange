@@ -1,0 +1,8 @@
+C:\Users\xinbin\source\repos\PartnerStaffEncryptor\PartnerStaffEncryptor\bin\Debug\PartnerStaffEncryptor.exe.config
+C:\Users\xinbin\source\repos\PartnerStaffEncryptor\PartnerStaffEncryptor\bin\Debug\PartnerStaffEncryptor.exe
+C:\Users\xinbin\source\repos\PartnerStaffEncryptor\PartnerStaffEncryptor\bin\Debug\PartnerStaffEncryptor.pdb
+C:\Users\xinbin\source\repos\PartnerStaffEncryptor\PartnerStaffEncryptor\obj\Debug\PartnerStaffEncryptor.Form1.resources
+C:\Users\xinbin\source\repos\PartnerStaffEncryptor\PartnerStaffEncryptor\obj\Debug\PartnerStaffEncryptor.Properties.Resources.resources
+C:\Users\xinbin\source\repos\PartnerStaffEncryptor\PartnerStaffEncryptor\obj\Debug\PartnerStaffEncryptor.csproj.GenerateResource.cache
+C:\Users\xinbin\source\repos\PartnerStaffEncryptor\PartnerStaffEncryptor\obj\Debug\PartnerStaffEncryptor.exe
+C:\Users\xinbin\source\repos\PartnerStaffEncryptor\PartnerStaffEncryptor\obj\Debug\PartnerStaffEncryptor.pdb
